@@ -1,106 +1,54 @@
 # Hi, I'm Divya Dara 👋
 
-### Electronics & Communication Engineering Graduate | MSc Embedded Systems & Control Engineering (Starting Sep 2026) @ University of Leicester
+### MSc Embedded Systems & Control Engineering Student @ University of Leicester 🇬🇧
 
-I'm passionate about designing reliable embedded systems that solve real-world engineering problems.
-
-My interests include embedded software, firmware development, control systems, industrial automation, IoT, and intelligent electronic systems. I enjoy learning through hands-on projects and continuously improving my engineering skills.
+Electronics & Communication Engineering graduate passionate about Embedded Systems, Control Engineering, IoT and Industrial Automation.
 
 ---
 
-## 👩‍💻 About Me
+## 👨‍💻 About Me
 
 - 🎓 B.Tech in Electronics & Communication Engineering
-- 🇬🇧 Starting MSc Embedded Systems & Control Engineering at the University of Leicester (September 2026)
-- 💡 Interested in Embedded Systems, Embedded Software, Control Engineering, Firmware Development, and Industrial Automation
-- 📍 Currently based in Hyderabad, India
-- 🎯 Preparing for UK Placement Opportunities (2027)
+- 🎓 MSc Embedded Systems & Control Engineering, University of Leicester (2026–2028)
+- 🌱 Currently learning Embedded Systems, Control Engineering, MATLAB and Python
+- 🔍 Looking for Placement, Internship and Graduate Opportunities in the UK
+- ⚡ Interested in Embedded Software, Firmware, Robotics and Industrial Automation
 
 ---
 
-## 🌱 Currently Learning
+## 🛠️ Technologies & Tools
 
-- Embedded C
-- Git & GitHub
-- STM32 Microcontrollers
-- MATLAB
-- Python
-- Real-Time Embedded Systems
-- Control Systems
-
----
-
-## 🛠️ Technical Skills
-
-### Programming Languages
-- C
-- Python
-- MATLAB
-
-### Embedded Systems
-- Arduino
-- Microcontrollers
 - Embedded Systems
-
-### Engineering
-- Signal Processing
-- Electronics
-- Control Systems
-
-### Tools
+- MATLAB
+- Python
+- C Programming
 - Git
 - GitHub
-- MATLAB
-- Arduino IDE
+- STM32
+- Arduino
+- Raspberry Pi
+- Linux
 
 ---
 
-## 🚀 Current Goals
+## 📚 Currently Learning
 
-- Build a professional Embedded Systems portfolio
-- Develop firmware and embedded software projects
-- Strengthen C programming and STM32 skills
-- Learn Real-Time Operating Systems (RTOS)
-- Secure a UK placement in Embedded Systems / Control Engineering
-
----
-
-## 📂 Featured Projects
-
-Projects will be added as I progress through my MSc.
-
-Upcoming repositories include:
-
-- Emergency Detection System for Elderly Individuals Living Alone
-- STM32 Learning Projects
-- Embedded C Practice
-- MATLAB Simulations
-- University Coursework
-
----
-## 🎯 Career Interests
-
-I'm interested in opportunities related to:
-
-- Embedded Systems Engineering
-- Embedded Software Engineering
-- Firmware Engineering
-- Control Systems Engineering
+- Embedded Linux
+- Real-Time Systems
+- Control Engineering
 - Industrial Automation
-- Robotics
+- IoT Systems
 
 ---
 
-## 📈 Current Focus
+## 🚀 Future Projects
 
-> Building strong engineering fundamentals today to develop reliable embedded solutions tomorrow.
+Projects will be added as I progress through my MSc at the University of Leicester.
+
+Stay tuned!
 
 ---
 
-## 🤝 Let's Connect
+## 📫 Connect with Me
 
-- 💼 LinkedIn: https://linkedin.com/in/divya-dara
-- 💻 GitHub: https://github.com/divya-dara
-
-
-⭐ Thanks for visiting my profile!
+- LinkedIn: www.linkedin.com/in/divya-dara
